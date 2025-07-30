@@ -1,4 +1,4 @@
-Build and train a multi-layer neural network to classify handwritten digit images using the MNIST dataset.
+#Build and train a multi-layer neural network to classify handwritten digit images using the MNIST dataset.
 
 step by step:
 
