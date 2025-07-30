@@ -44,10 +44,15 @@ y_test = to_categorical(y_test, 10)
 STEP 5:
 
 model = tf.keras.Sequential([
+
     tf.keras.layers.Flatten(input_shape=(28, 28)),
+    
     tf.keras.layers.Dense(128, activation='relu'),
+    
     tf.keras.layers.Dense(64, activation='relu'),
+    
     tf.keras.layers.Dense(10, activation='softmax')
+    
 ])
 Layer breakdown:
 - Flatten: turns each 28×28 image into a 784-element vector.
