@@ -31,6 +31,7 @@ X = np.array([1.0,2.0, 3.0, 4.0], dtype=float)
 Y = np.array([2.0, 4.0, 6.0, 8.0], dtype=float)
 - X: input values.
 - Y: target output values.
+
 These follow the linear relationship Y = 2X.
 
 
