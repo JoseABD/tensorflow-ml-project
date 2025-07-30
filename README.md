@@ -3,11 +3,11 @@ TensorFlow exercises from the article Technical Skills for Data Science
 
 Before starting the exercises, the following requirements are necessary:
 
--Have Python installed
--Have the following libraries installed:
-  -TensorFlow
-  -Panda
-  -scikit-learn
+- Have Python installed
+- Have the following libraries installed:
+  - TensorFlow
+  - Panda
+  - scikit-learn
 
   # How to install TensorFlow
 
